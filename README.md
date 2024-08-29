@@ -35,6 +35,6 @@ Una vez que el usuario establece sus ubicaciones "Desde" y "Hasta", la aplicaci√
     Informes de errores:
         Contiene los informes de errores.
         
-    Plantillas y formatos:
+    Plantillas y formatos
 
 https://docs.google.com/spreadsheets/d/1FwNfl2KxXf2jJxGsyO-uDrqCnAQ3OlPNU7gjyv88ON0/edit?gid=1168870724#gid=1168870724
