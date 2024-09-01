@@ -1,5 +1,4 @@
-# Pruebas de Regresión de Urban Routes - Completado
-
+# Pruebas de Regresión de Urban Routes
 ## Descripción del Proyecto
 
 En este proyecto, se realizaron pruebas de regresión exhaustivas para la aplicación de transporte **Urban Routes**. El propósito principal de la aplicación es crear rutas y calcular la duración y el precio del viaje para diferentes tipos de transporte. La interfaz de usuario es sencilla, con campos para las direcciones "Desde" y "Hasta", y ofrece opciones para varios modos de transporte como automóvil, bicicleta, taxi, entre otros.
