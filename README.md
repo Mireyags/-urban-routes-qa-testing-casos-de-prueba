@@ -66,6 +66,8 @@ Para comenzar:
 
     Informes de errores:
         Contiene los informes de errores.
+        
+https://docs.google.com/spreadsheets/d/1FwNfl2KxXf2jJxGsyO-uDrqCnAQ3OlPNU7gjyv88ON0/edit?gid=1168870724#gid=1168870724
 
 <img width="3360" alt="Image(4)" src="https://github.com/user-attachments/assets/d9271ea3-e027-441d-95b2-d83776065ade">
      
@@ -75,4 +77,4 @@ Para comenzar:
 
 <img width="3360" alt="Image(8)" src="https://github.com/user-attachments/assets/2e4a49c0-e417-43bb-954b-54367daced4f">
 
-https://docs.google.com/spreadsheets/d/1FwNfl2KxXf2jJxGsyO-uDrqCnAQ3OlPNU7gjyv88ON0/edit?gid=1168870724#gid=1168870724
+
