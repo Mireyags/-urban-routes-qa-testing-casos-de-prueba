@@ -1,13 +1,13 @@
-# Pruebas de Regresión de Urban Routes
+# Pruebas de Regresión de Urban Routes - Completado
 
 ## Descripción del Proyecto
 
-En este proyecto, se realizarán pruebas de regresión para la aplicación de transporte **Urban Routes**. Esta aplicación tiene como objetivo principal crear rutas y calcular la duración y el precio del viaje para diferentes tipos de transporte. La interfaz de usuario es sencilla, con campos para las direcciones "Desde" y "Hasta", y modos de transporte variados como automóvil, bicicleta, taxi, entre otros.
+En este proyecto, se realizaron pruebas de regresión exhaustivas para la aplicación de transporte **Urban Routes**. El propósito principal de la aplicación es crear rutas y calcular la duración y el precio del viaje para diferentes tipos de transporte. La interfaz de usuario es sencilla, con campos para las direcciones "Desde" y "Hasta", y ofrece opciones para varios modos de transporte como automóvil, bicicleta, taxi, entre otros.
 
 ### Funcionalidades Principales
 
 - **Campos de Dirección:** Dos campos para ingresar las direcciones "Desde" y "Hasta".
-- **Modos de Transporte:** Tres opciones ("Óptimo", "Flash", "Personal") y varios íconos para diferentes tipos de transporte (automóvil, a pie, taxi, bicicleta, scooter, compartir automóvil).
+- **Modos de Transporte:** Tres opciones ("Óptimo", "Flash", "Personal") y varios íconos para tipos de transporte (automóvil, a pie, taxi, bicicleta, scooter, compartir automóvil).
 - **Cálculo de Viaje:** La aplicación calcula la duración y el precio del viaje utilizando un algoritmo específico basado en los puntos "A" y "B".
 
 ## Tecnologías Utilizadas
@@ -19,9 +19,9 @@ En este proyecto, se realizarán pruebas de regresión para la aplicación de tr
 ## Cómo Empezar
 
 1. **Iniciar el Servidor:**
-   - Haz clic en el botón "Iniciar el servidor". (El servidor es interno de Triple Ten)
+   - Haz clic en el botón "Iniciar el servidor" para lanzar el servidor local de la aplicación.
    - Espera hasta 2 minutos para que el servidor se inicie completamente.
-   - Si ves un enlace antes de que todos los componentes estén en funcionamiento, es posible que recibas el mensaje "Intenta desplegar el servidor primero". Espera a que todo esté listo antes de acceder.
+   - Si ves un enlace antes de que todos los componentes estén listos, es posible que recibas el mensaje "Intenta desplegar el servidor primero". Espera a que todos los componentes estén operativos antes de acceder.
 
 2. **Ejecutar los Casos de Prueba:**
    - Abre la plantilla de Google Sheets proporcionada.
@@ -31,14 +31,14 @@ En este proyecto, se realizarán pruebas de regresión para la aplicación de tr
      - **Condición Previa:** Requisitos previos necesarios.
      - **Paso/Descripción del Paso:** Acciones a realizar.
      - **Resultado Esperado:** Resultado esperado después de realizar los pasos.
-   - **Estado:** Actualiza con Aprobada, No Aprobada, o Omitida.
-   - **ID de Error:** Si el caso de prueba falla, crea un informe de error y agrega el ID correspondiente.
+   - **Estado:** Actualiza el estado con Aprobada, No Aprobada, o Omitida.
+   - **ID de Error:** Si un caso de prueba falla, crea un informe de error y agrega el ID correspondiente.
 
-   Utiliza la última versión de Google Chrome para ejecutar los casos de prueba. Consulta las capturas de pantalla en la plantilla para referencia visual.
+   Utiliza la última versión de Google Chrome para ejecutar los casos de prueba. Consulta las capturas de pantalla proporcionadas en la plantilla para referencia visual.
 
 3. **Crear Informes de Errores:**
-   - Documenta todos los errores encontrados en la pestaña "Informes de errores" de la plantilla.
-   - Completa los campos: ID, título, pasos, resultado esperado, resultado actual y severidad (Bloqueador, Crítico, Grave, Menor, Trivial).
+   - Documenta todos los errores encontrados en la pestaña "Informes de errores" de la plantilla de Google Sheets.
+   - Completa los campos: ID, título, pasos, resultado esperado, resultado actual, y severidad (Bloqueador, Crítico, Grave, Menor, Trivial).
 
 ## Capturas de Pantalla
 
@@ -46,26 +46,22 @@ Las capturas de pantalla proporcionadas en la plantilla te ayudarán a comprende
 
 ## Implementación del Proyecto
 
-Para comenzar:
+Para completar el proyecto:
 1. **Accede a Google Sheets:** Inicia sesión con tu cuenta de Google o regístrate.
-2. **Copia la Plantilla:** Selecciona "Archivo" → "Hacer una copia" y nómbrala como "Tu nombre, apellido(s), número de grupo - 1.er sprint" (por ejemplo, "Mireya Galindo Sanchez - 1.er sprint").
-3. **Completa la Plantilla:**
+2. **Completa la Plantilla:**
    - Ejecuta los casos de prueba y marca el estado correspondiente.
    - Crea informes de errores para las pruebas no aprobadas.
    - Agrega los ID de los informes de errores para las pruebas fallidas.
 
-¡Gracias por contribuir al proyecto de Urban Routes! Si tienes alguna pregunta, no dudes en contactarme.
-
 ## Estructura del Repositorio
 
-    Contiene documentación adicional y plantillas.
+- **Documentación Adicional y Plantillas:** Contiene documentación adicional y plantillas utilizadas durante el proyecto.
+- **Casos de Prueba y Resultados:**
+  - Casos de prueba para la función del mapa.
+  - Resultados de las pruebas.
+- **Informes de Errores:** Contiene los informes de errores generados durante las pruebas.
 
-    Contiene casos de prueba y resultados:
-        Casos de prueba para la función del mapa.
-        Resultados de las pruebas.
-
-    Informes de errores:
-        Contiene los informes de errores.
+¡Gracias por tu contribución a las pruebas de regresión de Urban Routes! Si tienes alguna pregunta o necesitas más información, no dudes en contactarme..
         
 https://docs.google.com/spreadsheets/d/1FwNfl2KxXf2jJxGsyO-uDrqCnAQ3OlPNU7gjyv88ON0/edit?gid=1168870724#gid=1168870724
 
